@@ -7,3 +7,4 @@ C:\Users\sarik\Desktop\Proje\Api\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.
 C:\Users\sarik\Desktop\Proje\Api\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 C:\Users\sarik\Desktop\Proje\Api\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\sarik\Desktop\Proje\Api\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\sarik\Desktop\Proje\Api\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
