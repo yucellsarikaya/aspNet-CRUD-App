@@ -13,5 +13,6 @@ namespace DataAccess.Concrete.EntityFremework.Contexts
             optionsBuilder.UseSqlServer(connectionString: @"Server=DESKTOP-0F3TA7A;Database=Northwind;Trusted_Connection=true");
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }
