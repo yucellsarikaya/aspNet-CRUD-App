@@ -2907,11 +2907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\sarik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2928,8 +2928,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj"
+            "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj"
             }
           }
         }

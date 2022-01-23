@@ -2956,11 +2956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\sarik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Business\\obj\\",
+      "outputPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2977,11 +2977,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj"
+            "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj"
             }
           }
         }

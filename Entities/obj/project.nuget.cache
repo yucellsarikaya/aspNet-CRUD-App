@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MtTctVtOvMf5F5wiuzEguxQiTJWZwpRLKsEN+4LX2FtYB71JaN54HFJLjPHeZGkTAKLQ9wg5kZex82qy9fs3bQ==",
+  "dgSpecHash": "1nj2Myv32bqiD37DVpN9CCXyKy+r7LS2gVQ2SyRGkh4Mll654z+1+oAQ2LgyAh+88RbA6PNaV4D7Sl8OWjzevw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sarik\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",
     "C:\\Users\\sarik\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.6\\microsoft.entityframeworkcore.abstractions.2.2.6.nupkg.sha512",

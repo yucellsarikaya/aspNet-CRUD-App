@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Core\\Core.csproj": {
+    "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\sarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Core\\obj\\",
+        "outputPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\sarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj"
+              "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
+    "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\sarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Core\\Core.csproj"
+              "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Core\\Core.csproj"
               }
             }
           }

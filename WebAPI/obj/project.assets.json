@@ -3005,11 +3005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\sarik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3026,8 +3026,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\sarik\\Source\\Repos\\aspNet-CRUD-App\\Business\\Business.csproj"
+            "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\sarik\\Documents\\C# Course\\aspNet-CRUD-App\\Business\\Business.csproj"
             }
           }
         }
