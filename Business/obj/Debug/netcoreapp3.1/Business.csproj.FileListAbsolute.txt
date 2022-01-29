@@ -1,0 +1,17 @@
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Business\obj\Debug\netcoreapp3.1\Business.pdb

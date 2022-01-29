@@ -1,0 +1,10 @@
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\sarik\Documents\C# Course\aspNet-CRUD-App\Core\obj\Debug\netcoreapp3.1\Core.pdb

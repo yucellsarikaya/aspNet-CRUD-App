@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Entities.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -21,6 +22,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet("getall")]
+        [Authorize(Roles ="Product.List")] //giriş yapan kişi bu komutu çalıştırmasını sağlar, roles ise veritanından yetki verdiğimiz kişiler için çalıştırır
         public IActionResult GetList()
         {
             var result = _productService.GetList();
